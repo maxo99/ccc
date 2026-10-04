@@ -1,9 +1,9 @@
 {
     "files.exclude":{
-        "plugins":true,
-        "plugins/deckling":true,
-        "plugins/mvp-launch":true,
-        "plugins/product-management":true,
+        // "plugins":true,
+        // "plugins/deckling":true,
+        // "plugins/mvp-launch":true,
+        // "plugins/product-management":true,
         "CONTRIBUTING.md":true,
         ".github":true,
         ".claude-plugin":true,
